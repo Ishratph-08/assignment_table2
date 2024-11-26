@@ -1,2 +1,1 @@
-It is a complex table
-Basic css and html only
+Assignment_table2 : Only used html
